@@ -18,4 +18,4 @@ EXPOSE 50000
 VOLUME /var/jenkins_home
 
 # Указываем команду по умолчанию
-CMD ["java", "-jar", "/usr/share/jenkins/jenkins.war"]
+CMD ["java", "-jar", "/usr/share/jenkins/jenkins.war"
